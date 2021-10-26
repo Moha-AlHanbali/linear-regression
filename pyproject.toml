@@ -12,6 +12,7 @@ sklearn = "^0.0"
 black = "^21.9b0"
 flake8 = "^4.0.1"
 matplotlib = "^3.4.3"
+seaborn = "^0.11.2"
 
 [tool.poetry.dev-dependencies]
 

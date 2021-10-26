@@ -7,7 +7,7 @@
 
 ## Description
 
-- 
+- This Notebook analyzes data of Possums and tries to find patterns in their physical features.
 
 ## Change log
 
