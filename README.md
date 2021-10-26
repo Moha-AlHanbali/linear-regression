@@ -1,5 +1,5 @@
 
-# chess-board
+# linear-regressionsd
 
 - running server: TBA
 
