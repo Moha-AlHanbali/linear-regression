@@ -1,5 +1,5 @@
 
-# linear-regressionsd
+# linear-regression
 
 - running server: TBA
 
